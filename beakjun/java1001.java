@@ -6,6 +6,7 @@ public class java1001 {
 
         int a = num.nextInt();
         int b = num.nextInt();
+
         System.out.println(a - b);
     }
 }
