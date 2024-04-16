@@ -5,7 +5,7 @@ public class java2562 {
         Scanner sc = new Scanner(System.in);
 
         int[] arr = new int[9]; //배열은 1부터 시작
-        int max = arr[0]; //최댓값 넣는 변수
+        int max = arr[0]; //최댓값 넣는 변수 ->  기본 선언이 되어있음 0만 해도
         int index = 0; //최댓값 몇 번째인지(위치)
 
         for(int i = 0; i < arr.length; i++){
