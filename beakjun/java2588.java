@@ -4,7 +4,7 @@ public class java2588 {
         Scanner in = new Scanner(System.in);
 
         int A = in.nextInt();
-        String B = in.next();
+        String B = in.next(); //문자열 인덱스 위치의 문자로 뽑아내기 휘함(아스키코드)
 
         in.close();
 
