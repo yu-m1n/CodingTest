@@ -5,7 +5,6 @@ public class java1110 {
         Scanner cal = new Scanner(System.in);
 
         int N = cal.nextInt();
-        //cal.close();
 
         int cnt = 0;
         int copy = N;

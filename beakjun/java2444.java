@@ -27,8 +27,3 @@ public class java2444 {
         }
     }
 }
-/*
-n = 2 * n - 1;
-        System.out.println("*");
-
- */
